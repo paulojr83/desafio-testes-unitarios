@@ -12,7 +12,7 @@ Para te ajudar nesse desafio, criamos para você esse modelo que você deve util
 
 O template está disponível na seguinte URL: 
 
-[rocketseat-education/ignite-template-tests-challenge](https://github.com/rocketseat-education/ignite-template-tests-challenge)
+[paulojr83/desafio-testes-unitarios](https://github.com/paulojr83/desafio-testes-unitarios)
 
 **Dica**: Caso não saiba utilizar repositórios do GitHub como template, temos um guia em **[nosso FAQ](https://www.notion.so/FAQ-Desafios-ddd8fcdf2339436a816a0d9e45767664).**
 
@@ -56,8 +56,3 @@ A rota recebe um token JWT pelo header e `amount` e `description` no corpo da re
 
 A rota recebe um token JWT pelo header e o id de uma operação registrada (saque ou depósito) na URL da rota e retorna as informações da operação encontrada.
 
-# 📅 Entrega
-
-Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no Linkedin é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
-
-Feito com 💜 por Rocketseat 👋 Participe da nossa [comunidade aberta!](https://discord.gg/pUU3CG4Z)
